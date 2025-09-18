@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/thumbnail.jpg" alt="Blackcoffer Assignment Thumbnail" width="720" />
+</p>
+
 ## 🧠 Blackcoffer Assignment – Text Analytics Toolkit
 
 Make text analysis easy and repeatable with a lightweight setup using dictionaries, stopwords, and an input workbook. This project structure is designed for Power BI/Excel workflows and can be adapted for Python/R as needed. ✨
