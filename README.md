@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/thumbnail.jpg" alt="Blackcoffer Assignment Thumbnail" width="720" />
+  <img src="images/assigment.jpg" alt="Blackcoffer Assignment Thumbnail" width="720" />
 </p>
 
 ## 🧠 Blackcoffer Assignment – Text Analytics Toolkit
